@@ -1,5 +1,5 @@
 # Problem Domain Description
-Our team will be looking into the media management domain,
+Our team will be looking into the media management domain.
 
 # What kind of application we are planning to make
 We plan to make an app to manage and share music across different streaming platforms, for example sharing a playlist from Apple Music to Spotify.
