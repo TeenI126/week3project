@@ -7,6 +7,7 @@ This will require the user to authenticate our app with multiple APIs for stream
 
 # Link to API documentation we could use
 https://developer.spotify.com/documentation/web-api/tutorials/getting-started#create-an-app
+https://developer.apple.com/documentation/applemusicapi/
 
 # postman screenshot of interacting with API
 
